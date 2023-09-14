@@ -1,16 +1,14 @@
-### Hi there 👋
+# Aleck Estrada - Project Manager Specialist :briefcase:
 
-<!--
-**AleckEstrada/AleckEstrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience :computer:
 
-Here are some ideas to get you started:
+- **Truist** – Fellow :financial_literacy:
+  
+## Fun Fact :tada:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I lived in Mexico and Brazil before moving to Miami.
+## Projects :rocket:
+
+## Connect with Me :LinkedIn:
+
+Here is my [LinkedIn](https://www.linkedin.com/in/aleck-estrada/) if you want to connect :smiley:
