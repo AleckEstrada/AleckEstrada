@@ -1,4 +1,4 @@
-# Aleck Estrada - Project Manager Specialist :briefcase:
+# Aleck Estrada - Florida International University Student :briefcase:
 
 ## Experience :computer:
 
